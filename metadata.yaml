@@ -1,0 +1,29 @@
+_repo: Poems-we-all-love_68639
+_version: 0.0.1
+contributor:
+  compiler:
+    agent_name: Barnet, Montrose L.
+    gutenberg_agent_id: '54880'
+    url: http://www.gutenberg.org/2009/agents/54880
+creator:
+  author:
+    agent_name: Various, Various
+    gutenberg_agent_id: '54879'
+    url: http://www.gutenberg.org/2009/agents/54879
+description: ''
+gutenberg_issued: '2022-07-29'
+identifiers:
+  gutenberg: '68639'
+language: en
+pgterms:marc905: 20220719133332various
+pgterms:marc906: '1911'
+pgterms:marc907: US
+production_note: Al Haines
+publication_note: United States :Acmegraph Company,1911.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Poems we all love
+url: http://www.gutenberg.org/ebooks/68639
