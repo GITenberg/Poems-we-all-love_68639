@@ -5,12 +5,17 @@ contributor:
     agent_name: Barnet, Montrose L.
     gutenberg_agent_id: '54880'
     url: http://www.gutenberg.org/2009/agents/54880
+covers:
+- cover_type: archival
+  image_path: 68639-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Various, Various
     gutenberg_agent_id: '54879'
     url: http://www.gutenberg.org/2009/agents/54879
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68639#Poems-we-all-love
 gutenberg_issued: '2022-07-29'
 identifiers:
   gutenberg: '68639'
